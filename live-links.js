@@ -1,12 +1,8 @@
-const LIVE_DATA = {
-    "Ujjawal-2025-cgl": {
+// 'const' hata kar aise likho
+window.LIVE_DATA = {
+    "Ujjawal-CGL-2025": {  
         "isLive": true,
-        "title": "Maths: Percentage Live @ 10 AM",
-        "link": "https://tumhara-m3u8-link.m3u8"
-    },
-    "Surya_2026_cgl": {
-        "isLive": false,
-        "title": "Next Live @ 2 PM",
-        "link": ""
+        "title": "Maths Live Class @ 10 AM",
+        "link": "https://tumhara-link.m3u8"
     }
 };
